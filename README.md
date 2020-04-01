@@ -1,3 +1,3 @@
 # Hello-World
 
-Circle circumference devided by diameter
+Circle circumference divided by diameter
